@@ -33,6 +33,10 @@
 - [brutelogic](https://twitter.com/brutelogic/status/1483073170827628547) - Bitrix24 CMS #XSS #WAF Bypass
 - [XSaadAhmedX](https://twitter.com/XSaadAhmedX/status/1482398313227948034) - Cross Site Scripting Akamai WAF BypassFace with monocle.
 - [NandanLohitaksh](https://twitter.com/NandanLohitaksh/status/1483498510100332545) - Cloudflare #XSS WAF Bypass.
+- [TodayCyberNews](https://twitter.com/TodayCyberNews/status/1485095073218183169) - Another BugBounty Tip is from @0xMstar
+- [str0d](https://twitter.com/str0d/status/1485019050602381318) - Cross Site Scripting (XSS) Cloudflare WAF Bypass Frog face
+- 
+ 
 
 
 
