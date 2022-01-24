@@ -37,6 +37,20 @@
 
 
 
+- []() -
+- [1345354351288737793](https://twitter.com/intigriti/status/1345354351288737793) - Recon Jan 2, 2021
+- [1343907142470950913](https://twitter.com/intigriti/status/1343907142470950913) - Recon
+- [1343183623009218560](https://twitter.com/intigriti/status/1343183623009218560) - Recon
+- [1341374193032687618](https://twitter.com/intigriti/status/1341374193032687618) - Recon
+- [1338861266895392773](https://twitter.com/intigriti/status/1338861266895392773) - FUZZ
+- [1335211080885424130](https://twitter.com/intigriti/status/1335211080885424130) - XSS 5 Dec,2020
+
+
+
+
+
+
+
 
 
 
