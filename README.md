@@ -1,8 +1,4 @@
-```
-In this repository, I will try to demonstrate Infosec writeups, Bug bounty tips, Content creators each and everything. 
-For infosec community so, let's get started
-```
-
+<h1 align="center">Infosec Tips</h1>
 
 
 # Agenda 
