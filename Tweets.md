@@ -1,5 +1,6 @@
 ## Agenda
 - [Intigriti tweets](#Intigriti-Tweets) - Archive(5 Dec,2020 - Now)
+- [SQL injection](#SQL-Injection)
 - [XSS](#xss)
 
 
@@ -85,8 +86,12 @@
 
 
 
+-----------------------------------------------
+-------------------------------------------------------
 
+### SQL-Injection
 
+- [zapstiko](https://twitter.com/zapstiko/status/1486919018883604480) - SQLi injection in .html site and reflected in the title.
 
 
 
