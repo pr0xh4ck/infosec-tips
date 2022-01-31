@@ -33,7 +33,7 @@
 
 
 
-
+- [1487405174763278338](https://twitter.com/intigriti/status/1487405174763278338) - Html injection ; Jan 29, 2022
 - [1484868458403835904](https://twitter.com/intigriti/status/1484868458403835904) - Recon 
 - [1482331744862883842](https://twitter.com/intigriti/status/1482331744862883842) - SSRF  · Jan 15, 2022
 - [1479795026066653188](https://twitter.com/intigriti/status/1479795026066653188) - Recon
