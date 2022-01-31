@@ -143,7 +143,7 @@
 
 
 
-
+- [sirifu4k1](https://twitter.com/sirifu4k1/status/1484936434394050566) - XSS payload in css
 - [0x3n0](https://twitter.com/0x3n0/status/1487822309981564929) - Vulnerability CRLF to XSS ; Jan 30, 2022
 - [jacksonhhax](https://twitter.com/jacksonhhax/status/1368533469635092480) - The Best XSS Polyglot! 🚨🚨
 - [nav1n0x](https://twitter.com/nav1n0x/status/1483192328693108743) - Cloudflare #XSS WAF Bypass.
