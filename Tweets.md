@@ -136,6 +136,15 @@
 ----------------------------------------------------------------------------------------------------------------
 
 ### xss
+
+
+
+
+
+
+
+
+- [0x3n0](https://twitter.com/0x3n0/status/1487822309981564929) - Vulnerability CRLF to XSS ; Jan 30, 2022
 - [jacksonhhax](https://twitter.com/jacksonhhax/status/1368533469635092480) - The Best XSS Polyglot! 🚨🚨
 - [nav1n0x](https://twitter.com/nav1n0x/status/1483192328693108743) - Cloudflare #XSS WAF Bypass.
 - [akazh18](https://twitter.com/akazh18/status/1482315827903098880) - Cross Site Scripting (XSS) Akamai WAF Bypass
