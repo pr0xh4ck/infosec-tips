@@ -3,6 +3,6 @@
 
 
 
-- [Nahamsec](https://github.com/nahamsec)
-- [The Cyber Mentor](https://github.com/hmaverickadams)
-- [Codingo](https://github.com/codingo)
+- [Nahamsec](https://nahamsec.com/)
+- [The Cyber Mentor](https://www.thecybermentor.com/)
+- [Codingo](https://codingo.com/)
