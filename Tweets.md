@@ -91,6 +91,13 @@
 
 ### SQL-Injection
 
+
+
+
+
+
+
+- [0x3n0](https://twitter.com/0x3n0/status/1490327622110572544) - SQL injection vulnerability to XSS
 - [zapstiko](https://twitter.com/zapstiko/status/1486919018883604480) - SQLi injection in .html site and reflected in the title.
 
 
