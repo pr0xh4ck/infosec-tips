@@ -30,8 +30,8 @@
 
 
 
-
-
+- [1495015319009701891](https://twitter.com/intigriti/status/1495015319009701891) - 403 Forbidden - Game Over? 🕹
+- [1492478602616651780](https://twitter.com/intigriti/status/1492478602616651780) - The keyword 'XSS' is triggering you? 🤪
 - [1489941887641399300](https://twitter.com/intigriti/status/1489941887641399300) - Recon
 - [1487405174763278338](https://twitter.com/intigriti/status/1487405174763278338) - Html injection ; Jan 29, 2022
 - [1484868458403835904](https://twitter.com/intigriti/status/1484868458403835904) - Recon 
