@@ -4,7 +4,8 @@
   - [Recon](#recon)
   - [Web](#web-application)
   - [Mobile](#mobile-application)
-  - [API](#api)
+  - [API](#API)
+  - [Code Review](#Code-Review)
   - [IOT](#iot)
   - [Miscellaneous](#miscellaneous)
   - [Red Team](#red-team)
@@ -114,6 +115,9 @@
 
 
 
+-------------------
+
+### API
 
 
 
@@ -124,9 +128,33 @@
 
 
 
-----
 
 
+-------------
+
+
+### Code-Review
+
+- [secure-coding/](https://vladtoie.gitbook.io/secure-coding/) - Welcome to the Secure Coding Handbook! 
+- [dojo](https://huntr.dev/dojo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------
 
 ### miscellaneous
   - [keyhacks](https://github.com/streaak/keyhacks)
