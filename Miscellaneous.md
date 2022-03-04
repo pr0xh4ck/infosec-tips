@@ -117,7 +117,8 @@
 
 ### API
 
-
+- [API-SecurityEmpire/](https://github.com/cyprosecurity/API-SecurityEmpire/) - API Security Projecto aims to present unique attack & defense methods in API Security field 
+- [vapi](https://github.com/roottusk/vapi) - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises. 
 
 
 
@@ -215,6 +216,6 @@
 - [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform) 
 - [intrigue-core](https://github.com/intrigueio/intrigue-core) - Discover Your Attack Surface! 
 - [ivre](https://github.com/ivre/ivre) - Network recon framework
-- []() -
+- [PurplePanda](https://github.com/carlospolop/PurplePanda) - Identify privilege escalation paths within and across different clouds 
 
 
