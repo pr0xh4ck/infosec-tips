@@ -2,6 +2,7 @@
 
 
 # Agenda 
+- [Fundamental](https://github.com/pr0xh4ck/infosec-tips/blob/main/Fundamental.md)
 - [Infosec writeups](https://github.com/pr0xh4ck/infosec-tips/blob/main/Content-creators.md)
 - [Tweets](https://github.com/pr0xh4ck/infosec-tips/blob/main/Tweets.md)
 - [Content creators](https://github.com/pr0xh4ck/infosec-tips/blob/main/Content-creators.md)
