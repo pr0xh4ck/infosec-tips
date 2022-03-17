@@ -1,4 +1,4 @@
-<h2 align="center">Infosec Tips</h2>
+<h2 align="center">Fundamental</h2>
 
 
 ### Please start from here
