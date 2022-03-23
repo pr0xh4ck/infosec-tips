@@ -9,6 +9,7 @@
 - [Infosec writeups](https://github.com/pr0xh4ck/infosec-tips/blob/main/Content-creators.md)
 - [Tweets](https://github.com/pr0xh4ck/infosec-tips/blob/main/Tweets.md)
 - [Content creators](https://github.com/pr0xh4ck/infosec-tips/blob/main/Content-creators.md)
+- [OSCP-Preparation](https://github.com/pr0xh4ck/infosec-tips/blob/main/OSCP-Preparation.md)
 
 
 
