@@ -30,6 +30,9 @@
 
 
 
+- [1505162177946206211](https://twitter.com/intigriti/status/1505162177946206211) - Subdomains are everyone's darling! 👯‍♀️
+- [1500088756132589570](https://twitter.com/intigriti/status/1500088756132589570) - Who loves Microsoft tools? 👀
+- [1497552035855675394](https://twitter.com/intigriti/status/1497552035855675394) - Okay, be honest, do you like a WAF? 💕
 - [1495015319009701891](https://twitter.com/intigriti/status/1495015319009701891) - 403 Forbidden - Game Over? 🕹
 - [1492478602616651780](https://twitter.com/intigriti/status/1492478602616651780) - The keyword 'XSS' is triggering you? 🤪
 - [1489941887641399300](https://twitter.com/intigriti/status/1489941887641399300) - Recon
