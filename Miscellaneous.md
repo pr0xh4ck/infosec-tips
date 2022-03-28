@@ -72,28 +72,32 @@
 -----
 
 ### web-application
-   - [cloudflare](https://www.cloudflare.com/learning/)
-   - [pentest-guide](https://github.com/Voorivex/pentest-guide)
-   - [awesome bug bounty](https://github.com/djadmin/awesome-bug-bounty)
-   - [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
-   - [awesome web security](https://github.com/qazbnm456/awesome-web-security)
-   - [rss](https://github.com/zer0yu/CyberSecurityRSS)
+
+
+
+- [Hunting-Tips](https://github.com/Fawadkhanfk/Hunting-Tips) - Tips For Bug Bounty Hunters 
+- [cloudflare](https://www.cloudflare.com/learning/)
+- [pentest-guide](https://github.com/Voorivex/pentest-guide)
+- [awesome bug bounty](https://github.com/djadmin/awesome-bug-bounty)
+- [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
+- [awesome web security](https://github.com/qazbnm456/awesome-web-security)
+- [rss](https://github.com/zer0yu/CyberSecurityRSS)
   
-   - [awesome-osint](https://github.com/jivoi/awesome-osint) - all about osint
-   - [awesome lists](https://awesomelists.top/) - some unique topic
-   - [algo](https://github.com/trailofbits/algo) - set up your personal vpn
-   - [intranet penetration tips](https://github.com/Ridter/Intranet_Penetration_Tips)
-   - [web methodology](https://github.com/tprynn/web-methodology/wiki)
-   - [pentest compilation](https://github.com/adon90/pentest_compilation)
-   - [A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries)
-   - [holytips](https://github.com/HolyBugx/HolyTips)
-   - [open source](https://hakluke.medium.com/how-to-achieve-enterprise-grade-attack-surface-monitoring-with-open-source-software-abebb2dccc16)
-   - [blog.securityinnovation](https://blog.securityinnovation.com/)
-   - [Kathan patel](https://github.com/KathanP19/HowToHunt)
-   - [ditectionlab](https://github.com/clong/DetectionLab)
-   - [bbtips](https://github.com/punishell/bbtips) - BugBountyTips 
-   - [learn365](https://github.com/harsh-bothra/learn365) - This repository is about @harshbothra_'s 365 days of Learning Tweets & Mindmaps collection.
-   - [awesomeBugbounty](https://github.com/bot8080/awesomeBugbounty) - awesome Bug bounty writeups
+- [awesome-osint](https://github.com/jivoi/awesome-osint) - all about osint
+- [awesome lists](https://awesomelists.top/) - some unique topic
+- [algo](https://github.com/trailofbits/algo) - set up your personal vpn
+- [intranet penetration tips](https://github.com/Ridter/Intranet_Penetration_Tips)
+- [web methodology](https://github.com/tprynn/web-methodology/wiki)
+- [pentest compilation](https://github.com/adon90/pentest_compilation)
+- [A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries)
+- [holytips](https://github.com/HolyBugx/HolyTips)
+- [open source](https://hakluke.medium.com/how-to-achieve-enterprise-grade-attack-surface-monitoring-with-open-source-software-abebb2dccc16)
+- [blog.securityinnovation](https://blog.securityinnovation.com/)
+- [Kathan patel](https://github.com/KathanP19/HowToHunt)
+- [ditectionlab](https://github.com/clong/DetectionLab)
+- [bbtips](https://github.com/punishell/bbtips) - BugBountyTips 
+- [learn365](https://github.com/harsh-bothra/learn365) - This repository is about @harshbothra_'s 365 days of Learning Tweets & Mindmaps collection.
+- [awesomeBugbounty](https://github.com/bot8080/awesomeBugbounty) - awesome Bug bounty writeups
 
 
 ----
