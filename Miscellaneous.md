@@ -224,5 +224,5 @@
 - [intrigue-core](https://github.com/intrigueio/intrigue-core) - Discover Your Attack Surface! 
 - [ivre](https://github.com/ivre/ivre) - Network recon framework
 - [PurplePanda](https://github.com/carlospolop/PurplePanda) - Identify privilege escalation paths within and across different clouds 
-
+- [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
