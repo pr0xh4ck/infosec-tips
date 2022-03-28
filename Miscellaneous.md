@@ -74,7 +74,7 @@
 ### web-application
 
 
-
+- [AllThingsSSRF](https://github.com/jdonsec/AllThingsSSRF) - This is a collection of writeups, cheatsheets, videos, books related to SSRF in one single location 
 - [Hunting-Tips](https://github.com/Fawadkhanfk/Hunting-Tips) - Tips For Bug Bounty Hunters 
 - [cloudflare](https://www.cloudflare.com/learning/)
 - [pentest-guide](https://github.com/Voorivex/pentest-guide)
