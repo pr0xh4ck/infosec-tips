@@ -2,6 +2,7 @@
 
 - [Agenda]()
   - [Recon](#recon)
+  - [Enumeration](#Enumeration)
   - [Web](#web-application)
   - [Mobile](#mobile-application)
   - [API](#API)
@@ -71,6 +72,20 @@
 
 
 -----
+-------
+
+
+### Enumeration
+- [inventory](https://github.com/trickest/inventory)
+
+
+
+
+
+
+
+--------
+------
 
 ### web-application
 
