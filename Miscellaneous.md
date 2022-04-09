@@ -76,7 +76,7 @@
 
 
 ### Enumeration
-- [inventory](https://github.com/trickest/inventory)
+- [inventory](https://github.com/trickest/inventory) - Asset inventory on public bug bounty programs. 
 
 
 
@@ -291,3 +291,4 @@
 
 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
