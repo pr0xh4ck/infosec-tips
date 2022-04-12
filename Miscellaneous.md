@@ -12,6 +12,7 @@
   - [Red Team](#red-team)
   - [Tools](#tools)
   - [Extra Site](#Extra-Site)
+  - [Resources](#Resources)
 
 
 
@@ -279,9 +280,14 @@
 
 
 
+---------------------------------
+--------------------------------
 
+### Resources
 
-
+- [31-days-of-pentesting](https://github.com/Traceableai/31-days-of-pentesting)
+- [31 API tips + categories & statistics](https://docs.google.com/spreadsheets/d/12NUeX8RWLrGTP9mss-POjyre8GCx9Z1Co4XMjvKG17A/edit#gid=0)
+- 
 
 
 
