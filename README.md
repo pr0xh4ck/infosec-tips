@@ -4,28 +4,20 @@
 ```pr0xh4ck © 2022```
 
 
-# Agenda 
-- [Fundamental](https://github.com/pr0xh4ck/infosec-tips/blob/main/Fundamental.md)
-- [Infosec writeups](https://github.com/pr0xh4ck/infosec-tips/blob/main/Content-creators.md)
-- [Tweets](https://github.com/pr0xh4ck/infosec-tips/blob/main/Tweets.md)
-- [Content creators](https://github.com/pr0xh4ck/infosec-tips/blob/main/Content-creators.md)
-- [OSCP-Preparation](https://github.com/pr0xh4ck/infosec-tips/blob/main/OSCP-Preparation.md)
-
-
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="https://github.com/pr0xh4ck/infosec-tips/blob/main/Fundamental.md">Fundamental</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="https://github.com/pr0xh4ck/infosec-tips/blob/main/Miscellaneous.md">Miscellaneous</a></li>
       </ul>
     </li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#rewards">Features</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="https://github.com/pr0xh4ck/infosec-tips/blob/main/Infosec-writeups.md">Infosec writeups</a></li>
+    <li><a href="https://github.com/pr0xh4ck/infosec-tips/blob/main/Tweets.md">Tweets</a></li>
+    <li><a href="https://github.com/pr0xh4ck/infosec-tips/blob/main/Content-creators.md">Content creators</a></li>
+    <li><a href="https://github.com/pr0xh4ck/infosec-tips/blob/main/OSCP-Preparation.md">OSCP-Preparation</a></li>
   </ol>
 </details>
 
