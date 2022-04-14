@@ -6,7 +6,7 @@
 
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Table of Contents (Click Here)</summary>
   <ol>
     <li>
       <a href="https://github.com/pr0xh4ck/infosec-tips/blob/main/Fundamental.md">Fundamental</a>
