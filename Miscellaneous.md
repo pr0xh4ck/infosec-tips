@@ -288,7 +288,9 @@
 
 - [31-days-of-pentesting](https://github.com/Traceableai/31-days-of-pentesting)
 - [31 API tips + categories & statistics](https://docs.google.com/spreadsheets/d/12NUeX8RWLrGTP9mss-POjyre8GCx9Z1Co4XMjvKG17A/edit#gid=0)
-- 
+- [assessment-mindset](https://github.com/dsopas/assessment-mindset) - Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments. 
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
+- [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything about web-application firewalls (WAF). 
 
 
 
