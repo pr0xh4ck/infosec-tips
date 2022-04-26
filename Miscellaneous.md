@@ -311,6 +311,7 @@
 - [BugCrowd](https://www.bugcrowd.com/bug-bounty-list/)
 - [HackerOne](https://hackerone.com/bug-bounty-programs)
 - [Chaos](https://chaos.projectdiscovery.io/)
+- [Bug Bounty Dork](https://github.com/sushiwushi/bug-bounty-dorks) - List of Google Dorks for sites that have responsible disclosure program / bug bounty program
 
 
 
