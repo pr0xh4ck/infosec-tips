@@ -310,6 +310,7 @@
 - [Disclose.io](https://github.com/disclose) - GitHub repo
 - [BugCrowd](https://www.bugcrowd.com/bug-bounty-list/)
 - [HackerOne](https://hackerone.com/bug-bounty-programs)
+- [Chaos](https://chaos.projectdiscovery.io/)
 
 
 
