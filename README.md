@@ -44,4 +44,10 @@
 
 
 
+----------------------------------------
+
+### Event & Conference
+
+- [BlackHat](https://www.blackhat.com/)
+- [DefCon]((https://defcon.org/)
 
