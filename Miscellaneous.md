@@ -3,6 +3,7 @@
 - [Agenda]()
   - [Recon](#recon)
   - [Enumeration](#Enumeration)
+  - [Fuzzing](#Fuzzing)
   - [Web](#web-application)
   - [Mobile](#mobile-application)
   - [API](#API)
@@ -89,6 +90,17 @@
 --------
 ------
 
+
+### Fuzzing
+- [Fuzzing101](https://github.com/antonio-morales/Fuzzing101) - An step by step fuzzing tutorial. A GitHub Security Lab initiative 
+
+
+
+
+
+
+
+------------------------------------
 ### web-application
 
 - [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning 
