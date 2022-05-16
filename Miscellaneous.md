@@ -15,6 +15,7 @@
   - [Extra Site](#Extra-Site)
   - [Resources](#Resources)
   - [Programe List](#Program-List)
+  - [Report Making](#Report-Making)
 
 
 
@@ -329,8 +330,9 @@
 
 
 
-### Report Making
-- [bbr](https://github.com/codingo/bbr) - An open source tool to aid in command line driven generation of bug bounty reports based on user provided templates. 
+### Report-Making
+- [bbr](https://github.com/codingo/bbr) - An open source tool to aid in command line driven generation of bug bounty reports based on user provided templates.
+- [pentest-reports](https://github.com/reconmap/pentest-reports) - Collection of penetration test reports and pentest report templates. Published by the the best security companies in the world. 
 
 
 
