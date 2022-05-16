@@ -156,6 +156,7 @@
 
 - [API-SecurityEmpire/](https://github.com/cyprosecurity/API-SecurityEmpire/) - API Security Projecto aims to present unique attack & defense methods in API Security field 
 - [vapi](https://github.com/roottusk/vapi) - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises. 
+- [awesome-api-security](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community
 
 
 
