@@ -329,7 +329,8 @@
 
 
 
-
+### Report Making
+- [bbr](https://github.com/codingo/bbr) - An open source tool to aid in command line driven generation of bug bounty reports based on user provided templates. 
 
 
 
