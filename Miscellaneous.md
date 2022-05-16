@@ -333,6 +333,8 @@
 ### Report-Making
 - [bbr](https://github.com/codingo/bbr) - An open source tool to aid in command line driven generation of bug bounty reports based on user provided templates.
 - [pentest-reports](https://github.com/reconmap/pentest-reports) - Collection of penetration test reports and pentest report templates. Published by the the best security companies in the world. 
+- [vulnrepo](https://github.com/kac89/vulnrepo) - VULNRΞPO - Free vulnerability report generator and repository end-to-end encrypted. Complete templates of issues, CWE, CVE, MITRE ATT&CK, PCI DSS, AES encryption, Nmap/Nessus/Burp/OpenVAS/Bugcrowd issues import, Jira export, TXT/HTML/PDF report, attachments, automatic changelog, statistics, vulnerability management, Security report builder. 
+- [pwndoc](https://github.com/pwndoc/pwndoc) -  Pentest Report Generator 
 
 
 
