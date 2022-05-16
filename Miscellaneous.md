@@ -327,6 +327,7 @@
 - [Chaos](https://chaos.projectdiscovery.io/)
 - [Bug Bounty Dork](https://github.com/sushiwushi/bug-bounty-dorks) - List of Google Dorks for sites that have responsible disclosure program / bug bounty program
 - [List](https://www.vpnmentor.com/blog/the-complete-list-of-bug-bounty-programs/)
+- [bug-bounty-recon-dataset](https://github.com/ARPSyndicate/bug-bounty-recon-dataset) - recon data for public bug bounty programs (irregular updates) 
 
 
 
