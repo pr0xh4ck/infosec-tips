@@ -55,6 +55,8 @@
 ### recon
 - [reconftw.sh](https://github.com/six2dez/reconftw/blob/main/reconftw.sh)
 - [awesomeopensource](https://awesomeopensource.com/) - For tools
+- [awesome-bugbounty-builder](https://github.com/0xJin/awesome-bugbounty-builder) - Awesome Bug bounty builder Project 
+- [bug_bounty_checklist](https://github.com/shubhdhungana/bug_bounty_checklist) 
 
 
 
