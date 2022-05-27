@@ -2,6 +2,7 @@
 
 - [Agenda]()
   - [Recon](#recon)
+  - [OSINT](#OSINT)
   - [Enumeration](#Enumeration)
   - [Fuzzing](#Fuzzing)
   - [Web](#web-application)
@@ -59,9 +60,15 @@
 - [bug_bounty_checklist](https://github.com/shubhdhungana/bug_bounty_checklist) 
 
 
+|
+- [multitask](https://github.com/tarun776/Tools/blob/main/port%2Bdir%2Bparam)
 
 
 
+
+### OSINT
+- [metaosint](https://metaosint.github.io/table/)
+- 
 
 
 
