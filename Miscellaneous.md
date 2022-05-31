@@ -185,6 +185,7 @@
 
 - [secure-coding/](https://vladtoie.gitbook.io/secure-coding/) - Welcome to the Secure Coding Handbook! 
 - [dojo](https://huntr.dev/dojo)
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. 
 
 
 
@@ -315,6 +316,7 @@
 - [assessment-mindset](https://github.com/dsopas/assessment-mindset) - Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments. 
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
 - [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything about web-application firewalls (WAF). 
+- [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device. 
 
 
 
