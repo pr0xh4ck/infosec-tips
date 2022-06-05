@@ -36,7 +36,7 @@
 - [netograph](https://netograph.io)
 - [wigle](https://wigle.net)
 - [intelx](https://intelx.io)
-- [fofa](https://fofa.so)
+- [fofa](https://fofa.info)
 - [hunter](https://hunter.io )
 - [haveibeenpwned](https://haveibeenpwned.com)
 - [crt](https://crt.sh/ )
