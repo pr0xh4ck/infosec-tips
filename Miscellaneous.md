@@ -17,6 +17,7 @@
   - [Resources](#Resources)
   - [Programe List](#Program-List)
   - [Report Making](#Report-Making)
+  - [SRTM](#SRTM)
 
 
 
@@ -354,6 +355,14 @@
 
 
 
+
+
+
+
+
+### SRTM
+- [my-journey-from-noob-to-synack-red-team](https://medium.com/@octa-mihail/my-journey-from-noob-to-synack-red-team-e4c25f018356)
+- [app.hackthebox.com/tracks/8](https://app.hackthebox.com/tracks/8)
 
 
 
