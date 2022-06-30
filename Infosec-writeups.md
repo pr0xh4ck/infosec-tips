@@ -36,6 +36,9 @@
 ### Web-Apps
 
 - [WriteUp](https://github.com/Hakumarachi/WriteUp) - CTF challenges WriteUp 
+- [ysamm](https://ysamm.com/)
+- [Jack Whitton](https://whitton.io/)
+- [RAFAY BALOCH](https://www.rafaybaloch.com/)
 
 
 
