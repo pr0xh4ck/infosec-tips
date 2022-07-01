@@ -18,6 +18,7 @@
   - [Programe List](#Program-List)
   - [Report Making](#Report-Making)
   - [SRTM](#SRTM)
+  - [Mind Maps](#Mind-Maps)
 
 
 
@@ -364,6 +365,20 @@
 - [my-journey-from-noob-to-synack-red-team](https://medium.com/@octa-mihail/my-journey-from-noob-to-synack-red-team-e4c25f018356)
 - [app.hackthebox.com/tracks/8](https://app.hackthebox.com/tracks/8)
 - [axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!  
+
+
+
+
+
+
+
+
+
+
+
+
+### Mind-Maps
+- [Mind-Maps](https://github.com/imran-parray/Mind-Maps) - Mind-Maps of Several Things
 
 
 
