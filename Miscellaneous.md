@@ -379,6 +379,7 @@
 
 ### Mind-Maps
 - [Mind-Maps](https://github.com/imran-parray/Mind-Maps) - Mind-Maps of Several Things
+- [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources 
 
 
 
