@@ -379,10 +379,11 @@
 
 ### Mind-Maps
 - [Mind-Maps](https://github.com/imran-parray/Mind-Maps) - Mind-Maps of Several Things
+- [Bug-Bounty-Tips](https://github.com/6vr/Bug-Bounty-Tips) - https://github.com/6vr/Bug-Bounty-Tips
 - [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources 
 
 
-
+- [secret-regex-list](https://github.com/h33tlit/secret-regex-list) - List of regex for scraping secret API keys and juicy information. 
 
 
 
