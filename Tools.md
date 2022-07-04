@@ -8,3 +8,6 @@
 
 ### Extra
 - [DeepPass](https://github.com/GhostPack/DeepPass) - Hunting for passwords with deep learning 
+- [awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools 
+- [Payloads](https://github.com/sh377c0d3/Payloads) - Payload Arsenal for Pentration Tester and Bug Bounty Hunters 
+- 
