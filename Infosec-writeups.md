@@ -34,7 +34,7 @@
 ----------------------------------
 
 ### Web-Apps
-
+- [Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) - BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔
 - [WriteUp](https://github.com/Hakumarachi/WriteUp) - CTF challenges WriteUp 
 - [ysamm](https://ysamm.com/)
 - [Jack Whitton](https://whitton.io/)
